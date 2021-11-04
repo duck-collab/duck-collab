@@ -1,0 +1,5 @@
+- 👋 Hi, I’m @duck-collab
+- 👀 I’m interested in Geosciences and the application of technology to them!
+- 🌱 I’m currently learning statistical analysis in r and python
+- 💞️ I’m looking to collaborate on r and python frameworks for statistical analysis
+- 📫 How to reach me @hycastduqk on twitter :)
